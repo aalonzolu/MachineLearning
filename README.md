@@ -4,8 +4,8 @@ Ejemplo de como ense?arle a Python a jugar piedra papel y tijeras.
 Requerimientos
 ------
 - Python 3
-- PIP
-- Requerimientos de python en 'requirements.txt'
+- PIP3
+- Requerimientos de python3 en 'requirements.txt'
 
 USO
 -----
